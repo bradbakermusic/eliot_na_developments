@@ -95,7 +95,6 @@ addresses = {
             "N FARGO ST",
             "N COOK ST",
             "N IVY ST",
-            "N FREMONT ST",
             "N DIXON ST",
             "N RIVER ST",
             "N LORING ST",
