@@ -5,7 +5,8 @@ action_types = [
     "co-issued",
     "fp-issued",
     "fp-intakes",
-    "lur-intakes",
+    "co-lur-intakes",
+    "rs-lur-intakes",
     "rs-issued",
     "rs-intakes",
 ]
@@ -17,7 +18,8 @@ action_types_to_readable = {
     "co-issued": "Commercial Issued Building Permits",
     "fp-issued": "Facility Issued Permits",
     "fp-intakes": "Facility Permit Intakes",
-    "lur-intakes": "Land Use Review Intakes",
+    "co-lur-intakes": "Commercial Land Use Review Intakes",
+    "rs-lur-intakes": "Residential Land Use Review Intakes",
     "rs-issued": "Residential Issued Building Permits",
     "rs-intakes": "Residential Permit Intakes",
 }
